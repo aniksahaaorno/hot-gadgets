@@ -6,8 +6,50 @@
     border-radius: 10px;
     border: none;
     padding: 10px 20px;
+    font-size: 20px;
     
 }
 .see{
     color: #FFA007;
+}
+.line{
+    height: 5px;
+    width:130px;
+    background-color: #FFA007;
+}
+.img{
+
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 20px;
+}
+.Categories{
+
+    margin-top: 50px;
+}
+hr{
+    
+    background-color: #FFA007;
+    height: 5px;
+    width: 130px;
+    border-radius: 10px;
+}
+.laptop{
+         
+    margin-top: 50px;
+}
+.laptopname{
+      
+    margin-bottom: 25px;
+}
+.smartphones{
+
+    margin-top: 50px;
+}
+.smartphonename{
+
+    margin-bottom: 25px;
+}
+.card{
+
+    box-shadow: 5px 5px 10px lightgray;
 }
